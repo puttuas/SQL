@@ -1,1 +1,1 @@
-SELECT ID FrstName City from person;
+SELECT ID FrstName City from student;
