@@ -1,3 +1,0 @@
-UPDATE  student
-SET  FirstName='raja', City='kadapa'
-WHERE ID=1;
